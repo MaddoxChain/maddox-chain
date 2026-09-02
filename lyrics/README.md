@@ -1,6 +1,6 @@
 # Lyrics
 
-Suno-ready lyric sheets for Maddox Chain tracks.
+Lyric sheets for Maddox Chain tracks.
 
 ## Outlaw / Dark Country
 
