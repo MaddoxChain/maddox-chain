@@ -14,7 +14,6 @@ Raised on red dirt, broken promises, and late-night radio, Chain’s sound sits 
 
 - `bios/` — artist bios for streaming, socials, and press
 - `lyrics/` — Suno-ready lyric sheets
-- `suno/` — style prompts and generation notes
 
 ## Style
 
