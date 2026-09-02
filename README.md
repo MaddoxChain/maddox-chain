@@ -13,7 +13,7 @@ Raised on red dirt, broken promises, and late-night radio, Chain’s sound sits 
 ## Folders
 
 - `bios/` — artist bios for streaming, socials, and press
-- `lyrics/` — Suno-ready lyric sheets
+- `lyrics/` — lyric sheets
 
 ## Style
 
